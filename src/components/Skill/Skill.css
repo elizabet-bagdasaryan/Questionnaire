@@ -1,0 +1,23 @@
+.skill {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #525557;
+  padding: 14px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.skill button {
+  border: none;
+  background: none;
+  height: 20px;
+  width: 20px;
+  cursor: pointer;
+}
+
+.skill button img {
+  height: 20px;
+  width: 20px;
+}

@@ -1,0 +1,33 @@
+.submitted-applications {
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: black;
+  padding-bottom: 100px;
+}
+
+.submitted-applications .header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 70px 0;
+}
+.submitted-applications .header .go-back {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-family: Montserrat;
+  font-size: 18px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.submitted-applications > div {
+  width: 80%;
+}
+
+.submitted-applications .page-title {
+  color: white;
+  font-family: "Rowdies";
+  font-size: 50px;
+}

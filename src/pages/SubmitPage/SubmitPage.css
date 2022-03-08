@@ -1,0 +1,33 @@
+.submit-page {
+  min-height: 100vh;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.submit-page .submit {
+  background-color: #fe3b1f;
+  color: white;
+  border: none;
+  width: 250px;
+  height: 55px;
+  border-radius: 50px;
+  font-family: Montserrat;
+  font-size: 25px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.submit-page .go-back {
+  background-color: transparent;
+  color: white;
+  border: none;
+  width: 300px;
+  height: 55px;
+  font-family: Montserrat;
+  font-size: 18px;
+  text-decoration: underline;
+  cursor: pointer;
+}

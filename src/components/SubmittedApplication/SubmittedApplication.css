@@ -1,0 +1,76 @@
+.submitted-application {
+  margin-bottom: 21px;
+  border: 1px solid #fe3b1f;
+}
+
+.submitted-application .expand {
+  background-color: #fe3b1f;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 27px;
+  cursor: pointer;
+}
+
+.submitted-application .expand h1 {
+  font-family: Montserrat;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 17px;
+  color: #ffffff;
+}
+
+.submitted-application .content {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 80px;
+}
+
+.submitted-application .content > div {
+  width: 85%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.submitted-application .content .column {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0;
+  width: 50%;
+}
+
+.submitted-application .content .column .row {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.submitted-application .content .column .row p {
+  width: 50%;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+}
+
+.submitted-application .content .column .column-title {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-decoration-line: underline;
+  color: #fe3b1f;
+  margin-bottom: 35px;
+}
+
+.submitted-application .content .column .row .value {
+  color: #454545;
+}
+
+.submitted-application input[type="date"] {
+  width: 80% !important;
+}

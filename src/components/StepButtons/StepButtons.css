@@ -1,0 +1,32 @@
+.step-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.step-buttons button {
+  border: none;
+  background: none;
+  cursor: pointer;
+  height: 19px;
+  width: 19px;
+}
+
+.step-buttons button img {
+  height: 19px;
+  width: 19px;
+}
+
+.step-buttons .step {
+  height: 19px;
+  width: 19px;
+  background-color: #fe3b1f;
+  opacity: 0.1;
+  border-radius: 50%;
+  margin: 0 7.5px;
+}
+
+.step-buttons .step.active {
+  opacity: 1;
+}

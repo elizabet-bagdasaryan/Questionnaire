@@ -1,0 +1,32 @@
+.skills-select {
+  width: 100%;
+  border: 1px solid #525557;
+  height: 50px;
+  padding: 0 20px;
+  font-size: 14px;
+  font-family: Montserrat;
+  box-sizing: border-box;
+  -webkit-appearance: none;
+  background: url(../../img/DropdownIcon.svg) no-repeat;
+  background-position: right 20px center;
+}
+
+.skills-select.error {
+  border: 1px solid #fe3b1f;
+}
+
+.add-skill-button-wrapper {
+  text-align: right;
+}
+
+.add-skill-button {
+  border: none;
+  background-color: #fe3b1f;
+  padding: 7px;
+  color: white;
+  font-family: Montserrat;
+  font-size: 12px;
+  line-height: 15px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
