@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Redberry-Questionnaire/static/css/main.49290dfa.css",
+    "main.js": "/Redberry-Questionnaire/static/js/main.1196bea8.js",
+    "static/js/787.c0e3ff90.chunk.js": "/Redberry-Questionnaire/static/js/787.c0e3ff90.chunk.js",
+    "static/media/stars.svg": "/Redberry-Questionnaire/static/media/stars.ecd4753c028b763e9f2b.svg",
+    "static/media/rocketman.svg": "/Redberry-Questionnaire/static/media/rocketman.888183e10e669429ceeff2b1ebb96e3b.svg",
+    "index.html": "/Redberry-Questionnaire/index.html",
+    "static/media/Next.svg": "/Redberry-Questionnaire/static/media/Next.9e5c5078eba5c7e83aff11754c4f253d.svg",
+    "static/media/Previous.svg": "/Redberry-Questionnaire/static/media/Previous.7c3f64c05d2046a7d95d356186c0552f.svg",
+    "static/media/Remove.svg": "/Redberry-Questionnaire/static/media/Remove.687606cdf8f828130bc864d75d8cbc80.svg",
+    "static/media/ArrowUp.svg": "/Redberry-Questionnaire/static/media/ArrowUp.6224ec83c7fa439cb484723b46f243f2.svg",
+    "static/media/DropdownIcon.svg": "/Redberry-Questionnaire/static/media/DropdownIcon.4186298b01aca2d98670.svg",
+    "static/media/ArrowDown.svg": "/Redberry-Questionnaire/static/media/ArrowDown.c807744121389118a9b6793384ca14e0.svg",
+    "main.49290dfa.css.map": "/Redberry-Questionnaire/static/css/main.49290dfa.css.map",
+    "main.1196bea8.js.map": "/Redberry-Questionnaire/static/js/main.1196bea8.js.map",
+    "787.c0e3ff90.chunk.js.map": "/Redberry-Questionnaire/static/js/787.c0e3ff90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49290dfa.css",
+    "static/js/main.1196bea8.js"
+  ]
+}
